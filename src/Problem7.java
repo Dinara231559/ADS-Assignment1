@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class Problem7 {
+    /**
+     * Reverses the elements of an array
+     * @param arr the array to be reversed
+     * @param first the starting index for the reverse
+     * @param last the ending index for the revere
+     */
     public static void reverseArray(int[] arr, int first, int last) {
             if (first >= last) {
                 return;

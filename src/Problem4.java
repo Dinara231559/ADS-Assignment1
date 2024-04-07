@@ -1,5 +1,10 @@
 import java.util.Scanner;
 public class Problem4 {
+    /**
+     * Calculates a factorial of non-negative numbers
+     * @param n non-negative number
+     * @return the factorial of n
+     */
     public static int factorial(int n){
         if (n == 0){
             return 1;

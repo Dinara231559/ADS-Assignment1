@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class Problem10 {
+    /**
+     * Calculates the GCD of two integers a and b
+     * @param a the first integer
+     * @param b the second integer
+     * @return the Greatest Common Divisor of a and b
+     */
     public static int findGCD(int a,int b){
         if(b == 0){
             return a;

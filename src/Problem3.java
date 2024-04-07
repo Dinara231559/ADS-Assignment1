@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class Problem3 {
+    /**
+     * Determines if the given integer is prime
+     *
+     * @param n the number to check
+     * @return a string indicating if n is "prime", "composite", or "neither prime nor composite"
+     */
     public static String checkPrime(int n){
         if(n < 2){
             return "neither prime nor composite";

@@ -1,5 +1,12 @@
 import java.util.Scanner;
 public class Problem2 {
+    /**
+     * Calculates the average of the values in an array.
+     *
+     * @param n the number of elements in the array
+     * @param arr the array containing the integers
+     * @return the average of the array values as a double
+     */
     public static double findAverage(int n, int[] arr){
         double sum = 0;
         for(int i = 0; i < n; i++){

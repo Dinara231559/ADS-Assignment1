@@ -1,5 +1,12 @@
 import java.util.Scanner;
 public class Problem1 {
+    /**
+     * Finds the index of the minimum value in an array.
+     *
+     * @param n the number of elements in the array
+     * @param arr the array of integers
+     * @return the index of the minimum value in the array
+     */
     public static int findMin(int n,int[] arr) {
         int minValue = arr[0];
         int minIndex = 0;

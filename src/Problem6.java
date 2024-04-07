@@ -1,5 +1,12 @@
 import java.util.Scanner;
 public class Problem6 {
+
+    /**
+     * Calculates the power of a
+     * @param a the base number
+     * @param n the exponent
+     * @return the result of a raised to the power of n
+     */
     public static double findPower(int a,int n){
         if(n == 0){
             return 1;

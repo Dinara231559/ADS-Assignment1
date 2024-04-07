@@ -1,5 +1,11 @@
 import java.util.Scanner;
 public class Problem5 {
+    /**
+     * Calculates the Fibonacci number at the given position
+     *
+     * @param n the position in the Fibonacci sequence
+     * @return the Fibonacci number at position n
+     */
     public static int fibonacci(int n){
         if(n <= 1){
             return n;

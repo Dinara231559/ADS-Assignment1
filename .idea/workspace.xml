@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a3a323-26a5-40d4-8bb4-52d36a339127" name="Changes" comment="problem 2" />
+    <list default="true" id="39a3a323-26a5-40d4-8bb4-52d36a339127" name="Changes" comment="problem 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712485363529</updated>
-      <workItem from="1712485364670" duration="12192000" />
+      <workItem from="1712485364670" duration="13094000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment1">
       <option name="closed" value="true" />
@@ -78,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712501393748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="problem 3">
+      <option name="closed" value="true" />
+      <created>1712502320908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712502320908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment1" />
     <MESSAGE value="problem 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem 2" />
+    <MESSAGE value="problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 3" />
   </component>
 </project>

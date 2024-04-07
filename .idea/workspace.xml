@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a3a323-26a5-40d4-8bb4-52d36a339127" name="Changes" comment="Assignment1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39a3a323-26a5-40d4-8bb4-52d36a339127" name="Changes" comment="problem 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,7 @@
     "Application.Problem4.executor": "Run",
     "Application.Problem5.executor": "Run",
     "Application.Problem6.executor": "Run",
+    "Application.Problem9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712485363529</updated>
-      <workItem from="1712485364670" duration="11385000" />
+      <workItem from="1712485364670" duration="12192000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment1">
       <option name="closed" value="true" />
@@ -71,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712500525502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="problem 2">
+      <option name="closed" value="true" />
+      <created>1712501393748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712501393748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment1" />
+    <MESSAGE value="problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem 2" />
   </component>
 </project>
